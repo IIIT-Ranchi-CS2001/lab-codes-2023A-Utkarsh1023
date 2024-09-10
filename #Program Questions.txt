@@ -1,0 +1,19 @@
+Basics Arithmetic operation in Python
+1. Write a program to find-
+   a) sum
+   b) multiplication
+   c) fraction
+   d) subtraction
+   e) Integer quotient
+   f) remainder
+2. Write a python program to find- 
+   a) Area & Perimeter of triangle when all the three sides are given (take user's input)
+        HINT: Use Hero's Equations
+   b) Find all the angles of above triangle
+     --> Display inputs and outputs
+3. Write a program to take input temperature from user and convert it into Fahreinheit ( degree celcius --> degree fahreinheit)
+     --> Display input temperature and fahreinheit 
+      HINTS: F = deg C * 1.8 + 32
+     
+Date: 3rd September, 2024
+
